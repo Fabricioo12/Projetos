@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Em Busca Da Cidade Perdida</title>
+</head>
+<body>
+  
+    <main>
+        <div class="passo" id="passo-0">
+            <p>No coração de uma floresta densa, a cidade perdida de Eldoria aguarda para ser redescoberta. Envolta por árvores centenárias e coberta por uma neblina mística, suas ruínas contam histórias de um passado glorioso. As pedras dos templos, adornadas com símbolos antigos, ainda ressoam com ecos de um povo que dominava a arte da harmonização com a natureza. Dizem que Eldoria floresceu em um tempo em que a magia e a sabedoria eram parte do cotidiano. Os habitantes, conhecidos por sua profunda conexão com os elementos, deixaram para trás vestígios de uma civilização que sabia viver em equilíbrio. Hoje, exploradores e sonhadores visitam suas ruínas, buscando não apenas tesouros materiais, mas também a essência de um legado perdido, que ainda sussurra entre as folhas e os ventos da floresta.</p> 
+      <button class="bnt-proximo"data-proximo="1">Rio de Janeiro</button>
+      <button class="bnt-proximo"data-proximo="2">Pernambuco</button>
+    </div>
+    </main>
+
+
+</body>
+</html>
